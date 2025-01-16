@@ -15,17 +15,26 @@ Mi objetivo es convertirme en un experto en desarrollo backend y en la arquitect
 🛠️ Tecnologías que uso
 
 Backend: TypeScript, NestJS, Node.js, Java
+
 Frontend: React, Next.js
+
 Bases de Datos: MySQL, PostgreSQL
+
 ORMs y Modelado de Datos: Prisma, TypeORM
+
 DevOps y Entorno de Trabajo: Docker, Git, AWS
+
 
 📌 Mis proyectos
 
 📲 Aplicación para gimnasios:
+
 Plataforma diseñada para mejorar la retención de clientes, ayudando a los gimnasios a fidelizar usuarios con estrategias digitales efectivas.
+
 🛍️ E-commerce:
+
 Un sistema de ventas completo con autenticación segura, gestión de productos, pasarelas de pago y un diseño intuitivo.
+
 
 📬 Contacto
 
