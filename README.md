@@ -1,4 +1,5 @@
 💻 Adriel Pérez | Full Stack Developer
+
 🚀 ¿Quién soy?
 Soy Adriel Pérez, un apasionado desarrollador Full Stack con un enfoque fuerte en el backend. Me encanta transformar ideas en soluciones digitales escalables y optimizar la experiencia del usuario a través de un código limpio y eficiente.
 
