@@ -40,7 +40,7 @@ Un sistema de ventas completo con autenticación segura, gestión de productos, 
 
 📧 Email: adrielperez227@gmail.com
 📱 Teléfono: +54 9 261 279-2694
-💼 LinkedIn: Adriel Pérez (linkedin.com/in/adriel-perez-ab3266268/)
+💼 LinkedIn: Adriel Pérez [linkedin.com/in/adriel-perez-ab3266268/](https://www.linkedin.com/in/adriel-perez-ab3266268/)
 <!--
 **adrielperez33/adrielperez33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
